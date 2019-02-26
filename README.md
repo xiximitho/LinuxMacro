@@ -1,2 +1,2 @@
 # LinuxMacro
-This project intends to create a macro that executes keyboard and mouse commands like Razer Synapse
+This project intends to create a autoclick application that executes keyboard and mouse commands 
